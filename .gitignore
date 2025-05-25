@@ -1,0 +1,23 @@
+# Ignorar archivos y carpetas de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar entornos virtuales
+venv/
+venv_mangajanai/
+ENV/
+.env/
+.venv/
+
+# Ignorar dependencias y librerías instaladas
+Lib/
+Include/
+Scripts/
+share/
+
+# Otros archivos temporales
+*.log
+*.tmp
+*.bak
